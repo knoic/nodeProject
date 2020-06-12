@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17650789-2f48-41af-a0d8-497d9e1d7a06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-api-admin/src/main/java/com/qihsoft/school/api/unified/WechatApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-api-admin/src/main/java/com/qihsoft/school/doc/WechatUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-api-wechat/src/main/java/com/qihsoft/school/api/unified/WechatApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-api-wechat/src/main/java/com/qihsoft/school/doc/WechatUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-core/conf/wechat/conf.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-util/conf/wechat/conf.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-util/src/main/java/com/qihsoft/school/utils/tool/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/css/plugins/weui/weui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/css/plugins/weui/weui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/laydate/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/laydate/theme/default/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/laydate/theme/default/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/laydate/theme/default/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/laydate/theme/default/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/laydate/theme/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/weui/weui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/public/assets/js/plugins/weui/weui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/upload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/wechat-sdk/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/wechat-sdk/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/wechat-sdk/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/wechat-sdk/js/zepto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui-js/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_footer_link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_nav_feedback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_nav_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_nav_layout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_nav_nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_nav_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_nav_special.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_nav_z-index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/icon_tabbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/layers/content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/layers/navigation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/layers/popout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/layers/transparent.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/pic_160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/pic_article.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/images/vcode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/demo/weui/zepto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/page/js/_lostCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/page/js/_lostDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/school/school-wechat/views/page/js/_lostList.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1d9PZ8AgKre7pzEFQTyNv92GBnU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/routes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\project\nodeProject\routes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17650789-2f48-41af-a0d8-497d9e1d7a06" name="Default Changelist" comment="" />
+      <created>1591834388923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591834388923</updated>
+      <workItem from="1591834391789" duration="5331000" />
+      <workItem from="1591928255058" duration="623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="86" width="1052" height="867" key="CommitChangelistDialog2" timestamp="1591928834779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="556" y="86" width="1052" height="867" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591928834779" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591928878498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591928878498" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591928878498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591928878498" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591928878498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591928878498" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591928878498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591928878498" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1591839072569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591839072569" />
+    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1591839190496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591839190496" />
+  </component>
+</project>
